@@ -9,4 +9,5 @@ Repositório criado para cumprimento do Projeto exigido no Bootcamp.
 - footer
 - aplicação de box-shadow
 
-Obs.: cógido de box-shadow não funciona corretamente nos navegadores Edge e Chrome
+Obs.: cógido de box-shadow não funciona corretamente nos navegadores Edge e Chrome no sistema Windows .
+  Efeito de "bolha" não funciona corretamente
