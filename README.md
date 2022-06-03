@@ -8,3 +8,5 @@ Repositório criado para cumprimento do Projeto exigido no Bootcamp.
 - alteração de figura (moldura em :hover + escala de cinza + organização de texto)
 - footer
 - aplicação de box-shadow
+
+Obs.: cógido de box-shadow não funciona corretamente nos navegadores Edge e Chrome
