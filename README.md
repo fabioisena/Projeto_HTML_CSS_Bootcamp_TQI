@@ -12,5 +12,4 @@ Repositório criado para cumprimento do Projeto exigido no Bootcamp.
 Obs.: cógido de box-shadow não funciona corretamente nos navegadores Edge e Chrome no sistema Windows .
   Efeito de "bolha" não funciona corretamente.
   - feito outra opção para resolver o problema. 
-  - arquivo anterior na pasta "anterior".
-  - arquivo alterado na pasta atual.
+  ainda não commitado
